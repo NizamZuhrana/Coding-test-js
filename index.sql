@@ -1,0 +1,2 @@
+BEGIN 
+inisialisasi variabel angka
